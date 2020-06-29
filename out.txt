@@ -1,0 +1,15 @@
+The eigenvalues are:
+9.24698
+154.644
+Eigenvectors :
+-0.344614  0.938744
+ 0.938744  0.344614
+Matrix :
+137.377 47.0367
+47.0367 26.5142
+variance :
+9.24698
+154.644
+the variance explain all the principal component
+9.24698
+154.644
